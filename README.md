@@ -3,6 +3,7 @@ express-authjs is a simple to use express middleware that adds configurable auth
 
 ## Table of Contents
 [Getting Started](https://github.com/nerderbur/express-authjs/blob/master/README.md#getting-started)
+
 [Guarding Routes](https://github.com/nerderbur/express-authjs/wiki/Guarding-Routes)
 
 ## Getting Started
