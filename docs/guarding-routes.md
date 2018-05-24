@@ -1,6 +1,5 @@
-
 ---
-id: guarding-route
+id: guarding-routes
 title: Protecting Routes
 ---
 
