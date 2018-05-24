@@ -1,0 +1,14 @@
+{
+  "name": "express-authjs",
+  "version": "0.0.7",
+  "description": "Simple authentication middleware for expressjs.",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.2.1"
+  }
+}
