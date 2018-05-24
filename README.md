@@ -33,7 +33,7 @@ app.get('/protected', guard(authenticator), (req, res) => {
 ```
 
 ## Documentation
-Please refer to the documentation website on (https://nerderbur.github.io/express-authjs)
+Please refer to the documentation website on https://nerderbur.github.io/express-authjs
 
 ## Changelog
 Check the [Github Releases page](https://github.com/nerderbur/express-authjs/releases)
