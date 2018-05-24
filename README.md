@@ -2,11 +2,11 @@
 express-authjs is a simple to use express middleware that adds configurable authentication to your express API routes with as little affort as possible.
 
 ## Table of Contents
-- [Installation](https://github.com/nerderbur/express-authjs#installing)
-- [Basic Usage](https://github.com/nerderbur/express-authjs#basic-usage)
-- [Documentation](https://github.com/nerderbur/express-authjs#documentation)
-- [Changelog](https://github.com/nerderbur/express-authjs#changelog)
-- [License](https://github.com/nerderbur/express-authjs#license)
+- [Installation](#installing)
+- [Basic Usage](#basic-usage)
+- [Documentation](#documentation)
+- [Changelog](#changelog)
+- [License](#license)
 
 ## Getting Started
 The instructions below will help you get started using exress-authjs as quickly as possible.
