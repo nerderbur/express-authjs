@@ -8,3 +8,19 @@ The instructions below will help you get started using exress-authjs as quickly 
 ```
 npm install express-authjs
 ```
+
+### Basic Usage
+```javascript
+const express = require('express');
+const { Authenticator, guard } = require('express-authjs');
+
+const authenticator = new Authenticator();
+
+app.get('/', (req, res) => {
+    res.send('Unprotected route.');
+})
+
+app.get('/protected', guard(authenticator), (req, res) => {
+    res.send('Unprotected route.');
+})
+```
