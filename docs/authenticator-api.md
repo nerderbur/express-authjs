@@ -22,3 +22,11 @@ const authOptions = {
 const authenticator = new Authenticator(authOptions);
 ```
 
+### Method: generateToken([uid, customClaims])
+- uid (required): a string containing the unique identifier for the user you are trying to create the token for.
+- customClaims (optional): a JSON object containing all the custom attributes you would like to be added to the token.
+
+> *Returns* a string containing the token.
+
+Creates a JSON Web Token that can be used to authenticate future requests.
+
