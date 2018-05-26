@@ -6,12 +6,12 @@ title: Getting Started
 express-authjs is a simple to use express middleware that adds configurable authentication to your express API routes with as little affort as possible.
 
 ## Table of Contents
-[Getting Started](https://github.com/nerderbur/express-authjs/blob/master/README.md#getting-started)
-
-[Guarding Routes](guarding-routes)
+- [Guarding Routes](guarding-routes)
+- API
+  - [Authenticator()](authenticator-api) object
 
 ## Getting Started
-The instructions below will help you get started using exress-authjs as quickly as possible.
+The instructions below will help you get started using express-authjs as quickly as possible.
 
 ### Installing
 ```
