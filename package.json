@@ -1,17 +1,17 @@
 {
   "name": "express-authjs",
-  "version": "1.0.1",
-  "description": "Simple authentication middleware for expressjs using JSON Web Tokens.",
+  "version": "1.0.2",
+  "description": "Simple authentication middleware for expressjs using JSON Web Tokens.", 
   "main": "./lib",
-  "repository": "github:nerderbur/express-authjs",
-  "keywords": [
-    "express-authjs",
-    "express",
-    "authentication",
-    "auth",
-    "middleware",
-    "simple"
-  ],
+  "repository": "github:nerderbur/express-authjs", 
+  "keywords": [ 
+    "express-authjs", 
+    "express", 
+    "authentication", 
+    "auth", 
+    "middleware", 
+    "simple" 
+  ], 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
