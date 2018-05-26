@@ -1,3 +1,8 @@
+---
+id: authenticator-api
+title: Authenticator() API
+---
+
 # class Authenticator()
 The Authenticator class holds all of the necessary configurations for how authentication will be handled in your server.
 
