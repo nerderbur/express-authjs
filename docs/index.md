@@ -8,7 +8,7 @@ express-authjs is a simple to use express middleware that adds configurable auth
 ## Table of Contents
 - [Guarding Routes](guarding-routes)
 - API
-  - [Authenticator() object]()
+  - [Authenticator()](authenticator-api) object
 
 ## Getting Started
 The instructions below will help you get started using express-authjs as quickly as possible.
